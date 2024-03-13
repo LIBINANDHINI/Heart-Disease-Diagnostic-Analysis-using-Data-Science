@@ -15,6 +15,13 @@ and features and make the best dashboard
 # Dataset
 https://drive.google.com/file/d/1U8CHK_ye5jmcuYEeIOYIYcMzK2ooqLUV/view?usp=share_link
 
+# Data Visualization
+https://app.powerbi.com/groups/me/reports/fd3410d6-77ae-4b4f-b609-b22a81721404/ReportSection?experience=power-bi
+
+# Heart Disease Diagnostic Analysis Dashboard
+![image](https://github.com/LIBINANDHINI/Heart-Disease-Diagnostic-Analysis-using-Data-Science/assets/113690857/a875aca5-02ad-4807-a0ab-05bfbfe63bd4)
+
+
 # Conclusion
 1. From the overall population, people having heart disease (51%) are greater than those who have heart disease(49%)..
 2. Elder Age People are most affected by Heart Disease and Middle Age People are mostly free from any kind of Heart Disease.
@@ -25,6 +32,4 @@ https://drive.google.com/file/d/1U8CHK_ye5jmcuYEeIOYIYcMzK2ooqLUV/view?usp=share
 7. Males have high number of Fasting Blood Sugar over 120
 8. Blood Pressure Rate is almost equal in Males and Females but females have little bit of higher cholesterol than males
 9. Higher Cholestrol Level and Higher Blood Pressure Level  causes Chances Of Heart Disease
-
-![image](https://github.com/LIBINANDHINI/Heart-Disease-Diagnostic-Analysis-using-Data-Science/assets/113690857/1147c4c2-c4e4-48a3-b605-0b3dd91e09f4)
 
