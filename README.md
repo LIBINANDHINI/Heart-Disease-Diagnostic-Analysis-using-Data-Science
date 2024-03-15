@@ -19,8 +19,7 @@ https://drive.google.com/file/d/1U8CHK_ye5jmcuYEeIOYIYcMzK2ooqLUV/view?usp=share
 https://app.powerbi.com/groups/me/reports/fd3410d6-77ae-4b4f-b609-b22a81721404/ReportSection?experience=power-bi
 
 # Heart Disease Diagnostic Analysis Dashboard
-![image](https://github.com/LIBINANDHINI/Heart-Disease-Diagnostic-Analysis-using-Data-Science/assets/113690857/a875aca5-02ad-4807-a0ab-05bfbfe63bd4)
-
+https://app.powerbi.com/groups/me/reports/239441b3-edcd-4b6e-b99f-4c5139398b6f/ReportSection?experience=power-bi
 
 # Conclusion
 1. From the overall population, people having heart disease (51%) are greater than those who have heart disease(49%)..
